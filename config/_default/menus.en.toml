@@ -19,17 +19,17 @@
   name = "Parent"
   weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "example sub-menu 1"
+  parent = "Parent"
+  pageRef = "posts"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "example sub-menu 2"
+  parent = "Parent"
+  pageRef = "posts"
+  weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"
