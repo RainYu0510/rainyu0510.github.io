@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on rainyu</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:61766/posts/</link>
     <description>Recent content in Posts on rainyu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61766/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/posts/test-copy/</link>
+      <link>http://localhost:61766/posts/test-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/test-copy/</guid>
+      <guid>http://localhost:61766/posts/test-copy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:61766/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:61766/posts/test/</guid>
       <description></description>
       
     </item>
