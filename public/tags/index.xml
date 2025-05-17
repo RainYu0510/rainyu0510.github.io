@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on rainyu</title>
-    <link>http://localhost:61766/tags/</link>
-    <description>Recent content in Tags on rainyu</description>
+    <title>Tags on RainYu</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on RainYu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:61766/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <managingEditor>cbes.101065@gmail.com (Rain Yu)</managingEditor>
+    <webMaster>cbes.101065@gmail.com (Rain Yu)</webMaster>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
