@@ -20,8 +20,8 @@ title = "RainYu"
    image = "frogsmile.png"
    imageQuality = 96
 
-   headline = "I'm only human"
-   bio = "A little bit about you"
+   headline = "一隻可愛的青蛙"
+   bio = "喜歡音樂、遊戲、打羽球的資工系學生"
    links = [
      { github = "https://github.com/RainYu0510/rainyu0510.github.io" },
      { instagram = "https://www.instagram.com/rainyu_05_10/" },
