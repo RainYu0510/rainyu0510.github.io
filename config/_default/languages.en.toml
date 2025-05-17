@@ -9,10 +9,10 @@ title = "rainyu6666"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+   logo = "img/logo.png"
+   secondaryLogo = "img/secondary-logo.png"
+   description = "My awesome website"
+   copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
 #   name = "Your name here"
