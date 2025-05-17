@@ -15,9 +15,9 @@ title = "RainYu"
    copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Your name here"
-   email = "youremail@example.com"
-   image = "img/blowfish_logo.png"
+   name = "Rain Yu"
+   email = "cbes.101065@gmail.com"
+   image = "img/frogsmile.png"
    imageQuality = 96
    headline = "I'm only human"
    bio = "A little bit about you"
