@@ -27,7 +27,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "hero"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
