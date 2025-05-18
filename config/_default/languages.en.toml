@@ -8,7 +8,7 @@ title = "Rain Yu"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+   # dateFormat = "2 January 2006"
    # logo = "frogsmile.png"
    #description = "My awesome website"
    copyright = "2025 RainYu"
@@ -19,7 +19,7 @@ title = "Rain Yu"
    image = "frogsmile.png"
    imageQuality = 96
 
-   headline = "一隻可愛的青蛙"
+   headline = "Go beyond your comfort zone"
    bio = "喜歡音樂、遊戲、打羽球的資工系學生"
    links = [
      { github = "https://github.com/RainYu0510/rainyu0510.github.io" },
