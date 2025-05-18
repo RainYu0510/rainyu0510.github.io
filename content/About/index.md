@@ -4,6 +4,7 @@ description: "Learn about some of my projects."
 cascade:
   showReadingTime: false
 ---
+## 自我介紹
 
 大家好，我叫余萬崧 Rain Yu，也可以叫我肉鬆，就讀大同大學資工系大一。這個網站主要是放我程式學習的成果，目前正熱衷於學習網頁設計，從 HTML/CSS 到 JavaScript，一步步摸索如何讓畫面變得又好看又實用。最近有時間也很喜歡自己做 side project，不管是小工具還是網頁作品，只要心中有想法就會想試著做做看！
 
@@ -12,3 +13,13 @@ cascade:
 ## 證照
 
 - **CPE**：完成 2 題，排名比例為 **38.7%**
+- **TOEIC**： 650分/綠色證書
+
+
+## 社群
+
+2025大同大學科學開源服務社 社員
+
+## Side Project
+
+線上點餐系統
