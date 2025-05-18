@@ -2,7 +2,7 @@ disabled = false
 languageCode = "zh-tw"
 languageName = "Traditional Chinese"
 weight = 1
-title = "RainYu"
+title = "Rain"
 
 [params]
   displayName = "EN"
