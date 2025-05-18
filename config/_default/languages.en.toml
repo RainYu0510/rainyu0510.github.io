@@ -10,7 +10,7 @@ title = "RainYu"
   rtl = false
   dateFormat = "2 January 2006"
    logo = "frogsmile.png"
-  # secondaryLogo = "img/secondary-logo.png"
+   secondaryLogo = " "
    description = "My awesome website"
    copyright = "2025 RainYu"npx blowfish-tools"
 
