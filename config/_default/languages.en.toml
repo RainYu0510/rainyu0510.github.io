@@ -2,7 +2,7 @@ disabled = false
 languageCode = "zh-tw"
 languageName = "Traditional Chinese"
 weight = 1
-title = "Rain"
+title = "Rain Yu"
 
 [params]
   displayName = "EN"
@@ -10,7 +10,7 @@ title = "Rain"
   rtl = false
   dateFormat = "2 January 2006"
    # logo = "frogsmile.png"
-   description = "My awesome website"
+   #description = "My awesome website"
    copyright = "2025 RainYu"
 
  [params.author]
