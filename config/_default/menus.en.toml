@@ -12,7 +12,7 @@
 
 [[main]]
  name = "About"
- pageRef = "posts"
+ pageRef = "About"
  weight = 10
 
 [[main]]
@@ -43,13 +43,13 @@
   weight = 20
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Side Project"
+  pageRef = "side project"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Friends"
+  pageRef = "friends"
   weight = 30
 
 
