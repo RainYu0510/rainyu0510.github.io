@@ -7,4 +7,4 @@ enableHomepageSections: true
 disableHomepagePosts: true
 
 params:
-  description: "這是我的網站"h
+  description: "這是我的網站"
