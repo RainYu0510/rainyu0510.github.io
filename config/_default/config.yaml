@@ -1,4 +1,4 @@
-baseURL: "http://localhost/"
+baseURL: "baseURL: "https://rainyu0510.github.io/""
 languageCode: "zh-tw"
 title: "我的網站"
 theme: "blowfish"
@@ -7,4 +7,4 @@ enableHomepageSections: true
 disableHomepagePosts: true
 
 params:
-  description: "這是我的網站"
+  description: "這是我的網站"h
