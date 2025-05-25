@@ -2,22 +2,9 @@ sections:
   - type: "cards"
     title: "我的專案"
     subtitle: "這些是我最近完成的作品"
-
     items:
       - title: "線上點餐系統"
-        content: "點餐系統。"
-        # image: "images/chatbot.png"
+        content: "這是一個點餐系統的專案。"
+        # image: "images/chatbot.png" ← 可以先註解沒關係
         link: "https://github.com/RainYu0510/onlineodersystem"
         buttonText: "查看 GitHub"
-
-      #- title: "個人部落格"
-        #content: "使用 Hugo + Blowfish 打造的技術筆記與心得分享網站。"
-        #image: "images/blog.png"
-        #link: "/blog"git 
-        #buttonText: "進入網站"
-
-      #- title: "美食點餐系統"
-        #content: "一個模擬線上點餐流程的小專案，前端用 React、後端用 Node.js。"
-        #image: "images/order-system.png"
-        #link: "https://github.com/你的帳號/order-system"
-        #buttonText: "查看專案" 

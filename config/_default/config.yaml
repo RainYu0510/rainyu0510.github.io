@@ -1,0 +1,15 @@
+baseURL: "https://github.com/RainYu0510/onlineodersystem"  # 部署時再改成你的網址
+languageCode: "zh-tw"
+title: "我的網站"
+theme: "blowfish"
+
+enableHomepageSections: true
+disableHomepagePosts: true
+
+defaultContentLanguage: "zh-tw"
+defaultContentLanguageInSubdir: false
+
+params:
+  description: "這是我的個人網站"
+  homepage:
+    layout: "custom"  # 使用 homepage.yaml 來定義首頁內容
