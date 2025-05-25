@@ -13,7 +13,7 @@ sections:
       #- title: "個人部落格"
         #content: "使用 Hugo + Blowfish 打造的技術筆記與心得分享網站。"
         #image: "images/blog.png"
-        #link: "/blog"
+        #link: "/blog"git 
         #buttonText: "進入網站"
 
       #- title: "美食點餐系統"
