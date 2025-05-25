@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on RainYu</title>
+    <title>Series on Rain Yu</title>
     <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on RainYu</description>
+    <description>Recent content in Series on Rain Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>cbes.101065@gmail.com (Rain Yu)</managingEditor>
     <webMaster>cbes.101065@gmail.com (Rain Yu)</webMaster>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <copyright>2025 RainYu</copyright>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
