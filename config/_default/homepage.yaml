@@ -1,9 +1,0 @@
-sections:
-  - type: "cards"
-    title: "我的專案"
-    subtitle: "這些是我做過的專案"
-    items:
-      - title: "線上點餐系統"
-        content: "這是一個點餐系統的專案。"
-        link: "https://github.com/RainYu0510/onlineodersystem"
-        buttonText: "查看 GitHub"
