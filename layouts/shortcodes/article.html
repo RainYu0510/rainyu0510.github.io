@@ -1,4 +1,19 @@
-<a href="{{ .Get "link" }}" class="article-card" style="display:block; padding:10px; border:1px solid #ddd; border-radius:6px; text-decoration:none; color:#333;">
-  <h3>{{ .Get "title" | default "文章標題" }}</h3>
-  <p>{{ .Get "description" | default "文章簡介" }}</p>
-</a>
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ block "title" . }}{{ .Title }} | 我的網站{{ end }}</title>
+
+  <!-- ✅ 這裡放 CSS -->
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+  <!-- ✅ 這裡放頁面內容 -->
+  {{ block "main" . }}
+    {{ .Content }}
+  {{ end }}
+
+</body>
+</html>

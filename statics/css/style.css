@@ -1,0 +1,25 @@
+.article-card {
+  display: block;
+  padding: 15px 20px;
+  margin: 15px 0;
+  border-radius: 10px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+  background: #fff;
+  color: #333;
+  text-decoration: none;
+  transition: box-shadow 0.3s ease;
+}
+.article-card:hover {
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+}
+.article-card h3 {
+  margin: 0 0 8px 0;
+  font-weight: 700;
+  font-size: 1.3em;
+}
+.article-card p {
+  margin: 0;
+  color: #666;
+  font-size: 1em;
+  line-height: 1.4em;
+}
