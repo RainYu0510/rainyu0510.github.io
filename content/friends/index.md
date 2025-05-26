@@ -5,4 +5,4 @@ cascade:
   showReadingTime: false
 ---
 這些是我的朋友
-{{< article link="/docs/welcome/" >}}
+
