@@ -1,0 +1,68 @@
+:root {
+    --color-neutral: 230, 233, 240; /* 主要文字（接近白但不刺眼） */
+    --color-neutral-50: 245, 246, 250;
+    --color-neutral-100: 235, 237, 245;
+    --color-neutral-200: 210, 213, 230;
+    --color-neutral-300: 160, 165, 190;
+    --color-neutral-400: 120, 130, 160;
+    --color-neutral-500: 100, 110, 140;
+    --color-neutral-600: 75, 85, 120;
+    --color-neutral-700: 40, 42, 60;     /* 卡片邊界／按鈕底 */
+    --color-neutral-800: 30, 32, 48;     /* 卡片背景 */
+    --color-neutral-900: 24, 25, 38;     /* 主背景（近黑藍） */
+  
+    /* primary – 淺藍紫，現代冷感 */
+    --color-primary-50: 235, 245, 255;
+    --color-primary-100: 205, 220, 255;
+    --color-primary-200: 175, 200, 255;
+    --color-primary-300: 145, 175, 250;
+    --color-primary-400: 115, 150, 240;
+    --color-primary-500: 95, 130, 230;
+    --color-primary-600: 80, 110, 210;
+    --color-primary-700: 70, 95, 190;
+    --color-primary-800: 60, 80, 170;
+    --color-primary-900: 45, 65, 150;
+  
+    /* secondary – 用柔和一點的青藍來做輔助點綴 */
+    --color-secondary-50: 220, 245, 250;
+    --color-secondary-100: 180, 225, 240;
+    --color-secondary-200: 140, 205, 230;
+    --color-secondary-300: 100, 185, 220;
+    --color-secondary-400: 80, 165, 210;
+    --color-secondary-500: 65, 145, 195;
+    --color-secondary-600: 50, 125, 180;
+    --color-secondary-700: 45, 110, 160;
+    --color-secondary-800: 40, 95, 140;
+    --color-secondary-900: 30, 80, 120;
+  }
+  
+/* 卡片懸停效果 - 只有卡片上浮，照片不放大 */
+a:has(.min-h-full.border.shadow-2xl) {
+  display: block;
+  transition: transform 0.3s ease;
+  will-change: transform;
+}
+
+a:has(.min-h-full.border.shadow-2xl):hover {
+  transform: translateY(-7px);
+}
+
+/* 卡片外觀動畫效果 */
+.min-h-full.border.shadow-2xl {
+  transition: box-shadow 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
+}
+
+a:hover .min-h-full.border.shadow-2xl {
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25) !important;
+  border-color: rgba(var(--color-primary-500), 0.5) !important;
+  background-color: rgba(var(--color-primary-700), 0.03);
+}
+
+/* 卡片標題動畫效果 */
+.font-bold.text-xl {
+  transition: color 0.3s ease;
+}
+
+a:hover .font-bold.text-xl {
+  color: rgba(var(--color-primary-500), 1) !important;
+}
