@@ -30,11 +30,11 @@ showScrollToTop = true
 layout = "background"
 showRecent = true
 showRecentItems = 5
-showMoreLink = true
+showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = true
-cardViewScreenWidth = true
-layoutBackgroundBlur = true
+cardView = false
+cardViewScreenWidth = false
+layoutBackgroundBlur = false
 
 [article]
 showDate = true
