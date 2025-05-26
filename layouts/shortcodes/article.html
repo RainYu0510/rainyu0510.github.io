@@ -1,0 +1,4 @@
+<a href="{{ .Get "link" }}" class="article-card" style="display:block; padding:10px; border:1px solid #ddd; border-radius:6px; text-decoration:none; color:#333;">
+  <h3>{{ .Get "title" | default "文章標題" }}</h3>
+  <p>{{ .Get "description" | default "文章簡介" }}</p>
+</a>

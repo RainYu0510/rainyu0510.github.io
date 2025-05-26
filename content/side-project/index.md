@@ -6,5 +6,11 @@ cascade:
 ---
 這是我放我的Side Project的地方 
 
-{{< article link="/side-project/online-order-system.md" >}}
+
+{{< article 
+    link="/docs/welcome/" 
+    title="歡迎頁" 
+    description="這是歡迎頁的簡單介紹" 
+>}}
+
 
