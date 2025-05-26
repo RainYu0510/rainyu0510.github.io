@@ -1,5 +1,5 @@
 ---
-title: "MY friends"
+title: "My friends"
 description: "Learn about some of my projects."
 cascade:
   showReadingTime: false
