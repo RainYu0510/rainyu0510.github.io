@@ -47,10 +47,10 @@
   pageRef = "side project"
   weight = 20
 
-[[main]]
-  name = "Friends"
-  pageRef = "friends"
-  weight = 30
+#[[main]]
+#  name = "Friends"
+#  pageRef = "friends"
+#  weight = 30
 
 
 # -- Footer Menu --
