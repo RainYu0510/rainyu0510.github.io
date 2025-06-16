@@ -8,5 +8,6 @@ tags:
   - JavaScript
   - CSS
 summary: 線上點餐系統，支援分類、訂單、折扣與即時計算。
+{{< article link="/content/side-project/featured.png/" >}}
 ---
 這是我的專案 你好測試
