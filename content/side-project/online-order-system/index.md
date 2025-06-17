@@ -32,9 +32,9 @@ summary: 線上點餐系統，支援分類、訂單、折扣與即時計算。
 </head>
 ```
 
-- **<!DOCTYPE html>**：告訴瀏覽器這是 HTML5
+- **\<!DOCTYPE html\>**：告訴瀏覽器這是 HTML5
 - **lang="zh-Hant"**：語言設定為繁體中文
-- **<link rel="stylesheet">**：載入 CSS 檔案（外觀）
+- **\<link rel="stylesheet"\>**：載入 CSS 檔案（外觀）
 
 - 主標題與菜單篩選區塊
 
@@ -55,4 +55,4 @@ summary: 線上點餐系統，支援分類、訂單、折扣與即時計算。
 ```
 
 - 提供使用者切換商品分類的功能。
-- **<div id="menu">**：JavaScript 會在這裡動態插入商品項目。
+- **\<div id="menu"\>**：JavaScript 會在這裡動態插入商品項目。
