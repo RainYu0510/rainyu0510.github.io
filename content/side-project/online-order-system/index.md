@@ -15,16 +15,18 @@ summary: 線上點餐系統，支援分類、訂單、折扣與即時計算。
 
 ## 📁 專案結構
 
-ONLINEODERSYSTEM/
-├── ordersystem/
-|    ├── images/             # 商品圖片資料夾
-│       ├── beef.png
-│       ├── bubble_tea.png
-│       ├── chicken.png
-│       ├── curry.png
-│       ├── pudding.png
-│       └── tea.png
-|    ├── index.html          # 主網頁程式，負責介面與排版
-|    ├── script.js           # 點餐邏輯與互動功能
-|    ├── style.css           # 美化網頁的樣式
-└── README.md           # 專案說明文件
+# 🧩 一、HTML (index.html)
+
+這是整體畫面的骨架，負責結構與內容位置。
+
+-頁面基本設定
+
+```c
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <title>🍱 線上點餐系統</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+```
