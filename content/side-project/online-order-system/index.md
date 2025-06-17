@@ -177,7 +177,7 @@ function updateOrder(id, quantity) {
 - 輸入數量會即時更新購物車
 - 再重新渲染訂單與菜單數字同步
 
-### 渲染訂單與金額（renderOrder）
+### 4.渲染訂單與金額（renderOrder）
 
 ```c
 function renderOrder() {
@@ -224,7 +224,7 @@ function submitOrder() {
 
 - 檢查是否選購商品，若有則顯示「訂單已送出」並清空
 
----c
+```c
 function clearOrder() {
   for (let id in cart) delete cart[id];
   discount = 1;
@@ -232,7 +232,7 @@ function clearOrder() {
   renderOrder();
   renderMenu(document.getElementById('category-select').value);
 }
----
+```
 
 - 清空購物車與折扣碼欄位
 - 回復所有初始畫面狀態
