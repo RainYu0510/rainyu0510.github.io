@@ -11,12 +11,9 @@ summary: 線上點餐系統，支援分類、訂單、折扣與即時計算。
 
 ---
 
-![](ordersystem.png)
-
-
 這是一套完整的 **線上點餐系統（Online Order System)** 網頁專案，包括 HTML、CSS 與 JavaScript，做於網頁前端練習。以下是功能與架構的詳細說明：
 
-
+![](ordersystem.png)
 
 # 📁 專案結構
 
